@@ -3,7 +3,7 @@ class Acal < Formula
   homepage "https://github.com/Helmi/acal-apple-calendar-cli"
   version "0.3.0"
   url "https://github.com/Helmi/acal-apple-calendar-cli/releases/download/v0.3.0/acal-0.3.0-macos-universal.zip"
-  sha256 "21598b8339bfc14d6a8940c4cc1094b54a27b146659fc5ea4db5df3eb82eff5f"
+  sha256 "b30e706ed50d815ac31fe4455bda429917d622a60966c863bd1aa776fc1f7b9d"
   license "MIT"
 
   def install
