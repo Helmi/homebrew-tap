@@ -1,9 +1,9 @@
 class Acal < Formula
   desc "Fast, EventKit-native A Calendar CLI for macOS"
   homepage "https://github.com/Helmi/acal-apple-calendar-cli"
-  version "0.3.0"
-  url "https://github.com/Helmi/acal-apple-calendar-cli/releases/download/v0.3.0/acal-0.3.0-macos-universal.zip"
-  sha256 "b30e706ed50d815ac31fe4455bda429917d622a60966c863bd1aa776fc1f7b9d"
+  version "0.4.0"
+  url "https://github.com/Helmi/acal-apple-calendar-cli/releases/download/v0.4.0/acal-0.4.0-macos-universal.zip"
+  sha256 "59c2b29294180a3df3c33a8eb4ed7d066cfbd0d7edf22dd3be6a422933602e01"
   license "MIT"
 
   def install
